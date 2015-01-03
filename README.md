@@ -1,5 +1,5 @@
 Installation:
----
+-----
     pip install pyflakes
     cd ~
     git clone git://github.com/twik/emacs.git .emacs.d
